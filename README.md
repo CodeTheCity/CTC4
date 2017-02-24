@@ -1,1 +1,11 @@
 # CTC4
+Parent repo for all of the projects for Code The City 4 which had an Envoronmental Theme and took place on 20th and 21st June 2015. THis was our first multi-centre weekend taking place in Aberdeen and Edinburgh simultaneously. 
+
+You can find a write-ups of the weekend [here](http://codethecity.org/2015/06/)
+
+The projects were:
+
+* [Cyclists for Cyclists](https://github.com/CodeTheCity/c4c)
+* 
+*
+*
