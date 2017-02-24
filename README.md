@@ -7,5 +7,5 @@ The projects were:
 
 * [Cyclists for Cyclists](https://github.com/CodeTheCity/c4c)
 * [Beastiegram](https://github.com/CodeTheCity/beastiegram)
-*
+* [Ruunrz](https://github.com/CodeTheCity/runnrz)
 *
