@@ -10,4 +10,6 @@ The projects were:
 * [Ruunrz](https://github.com/CodeTheCity/runnrz)
 * [Edinbros](https://github.com/CodeTheCity/Edinbros-app)
 * [Cabapp](https://github.com/CodeTheCity/cabapp)
+* [Dclimate](https://github.com/CodeTheCity/dclimate)
+* [Data-noms](https://github.com/CodeTheCity/data-noms)
 
