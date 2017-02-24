@@ -6,6 +6,6 @@ You can find a write-ups of the weekend [here](http://codethecity.org/2015/06/)
 The projects were:
 
 * [Cyclists for Cyclists](https://github.com/CodeTheCity/c4c)
-* 
+* [Beastiegram](https://github.com/CodeTheCity/beastiegram)
 *
 *
